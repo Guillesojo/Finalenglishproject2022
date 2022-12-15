@@ -1,7 +1,7 @@
 https://b1englishguide.herokuapp.com/ 
-Simple website with tiles. Styling by HTML5UP.
+Simple website with tiles. 
 
 What I learned:
-    -To implemente google tags and GA4
+    -To implementegoogle tags and GA4
     -To deploy a website using heroku
     
